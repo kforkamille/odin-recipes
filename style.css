@@ -1,0 +1,21 @@
+* {
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: burlywood;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+.mainimage {
+    width: 200px;
+}
